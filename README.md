@@ -1,5 +1,5 @@
-<h3 align="center"> Всем привет 👋 </h3>
-### Меня зовут Евгений, я начинающий фронтенд-разработчик 💻
+<h1 align="center"> Всем привет 👋 </h1>
+<h2 align="center">Меня зовут Евгений, я начинающий фронтенд-разработчик 💻</h2>
 
 <!--
 **EvgenyVetrov33/EvgenyVetrov33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,5 @@
-### Hi Меня зовут Евгений!!! 👋
+### Всем привет 👋
+### Меня зовут Евгений, я начинающий фронтенд-разработчик 💻
 
 <!--
 **EvgenyVetrov33/EvgenyVetrov33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

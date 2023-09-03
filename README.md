@@ -8,7 +8,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EvgenyVetrov33&repo=funiro)]([https://github.com/anuraghazra/github-readme-stats]([https://github.com/EvgenyVetrov33/funiro)https://github.com/EvgenyVetrov33/funiro](https://github.com/EvgenyVetrov33/funiro.git)https://github.com/EvgenyVetrov33/funiro.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EvgenyVetrov33&repo=mesto)](https://github.com/EvgenyVetrov33/mesto.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EvgenyVetrov33&repo=funiro)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/EvgenyVetrov33/funiro.git)https://github.com/EvgenyVetrov33/funiro.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EvgenyVetrov33&repo=mesto)](https://github.com/EvgenyVetrov33/mesto.git)
   

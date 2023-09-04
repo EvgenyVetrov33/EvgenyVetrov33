@@ -6,7 +6,7 @@
   <h2>👨‍🎓 Образование</h2>
   <div>
     <a href="https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FДиплом%2FВетров%20Евгений%20Владимирович_20232ЦПВР00145.pdf&name=Ветров%20Евгений%20Владимирович_20232ЦПВР00145.pdf&uid=101638287&nosw=1" rel="nofollow">
-      <img src="https://github.com/EvgenyVetrov33/GoLitex/blob/main/img/163344396-94ef1e89-5861-490d-a95d-a1d675dc5918.jpg" width="306px" height="206" alt="Диплом">
+      <img src="https://github.com/EvgenyVetrov33/GoLitex/blob/main/img/163344396-94ef1e89-5861-490d-a95d-a1d675dc5918.jpg" width="260px" height="200" alt="Диплом">
     </a>
     <a href="https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FДиплом%2FVetrov%20Evgenij_20232ЦПВР00145.pdf&name=Vetrov%20Evgenij_20232ЦПВР00145.pdf&uid=101638287&nosw=1">
       <img src="">

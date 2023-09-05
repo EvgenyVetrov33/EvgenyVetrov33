@@ -12,6 +12,9 @@
       <img src="https://github.com/EvgenyVetrov33/GoLitex/blob/main/img/htmlimage.png" width="260px" height="200" alt="Диплом EN">
     </a>
   </div>
+  <a href="https://t.me/ZhekaZheka34">
+  <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
 <h2>⚡️Мой стек тенологий</h2>  
   
   <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/SASS-green?style=for-the-badge&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-grey?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GULP-FF1493?style=for-the-badge&logo=gulp&logoColor=FFF"/> <img src="https://img.shields.io/badge/WORDPRESS-0000CD?style=for-the-badge&logo=wordpress&logoColor=FFF"/> <img src="https://img.shields.io/badge/REACT-2F4F4F?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/FIGMA-FFDEAD?style=for-the-badge&logo=figma&logoColor=F24E1E"/> <img src="https://img.shields.io/badge/WEBPACK-FFF8DC?style=for-the-badge&logo=webpack&logoColor=#8DD6F9"/> <img src="https://img.shields.io/badge/MongoDb-00FF00?style=for-the-badge&logo=mongodb&logoColor=47A248"/>

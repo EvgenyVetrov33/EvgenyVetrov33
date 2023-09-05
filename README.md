@@ -12,7 +12,7 @@
       <img src="https://github.com/EvgenyVetrov33/GoLitex/blob/main/img/htmlimage.png" width="260px" height="200" alt="Диплом EN">
     </a>
   </div>
-  <h2>📫 Cвязаться со мной:</h2>
+  <h2>📫 Cвязаться со мной</h2>
   <a href="https://t.me/ZhekaZheka34">
   <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
